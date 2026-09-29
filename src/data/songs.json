@@ -1,0 +1,182 @@
+[
+  {
+    "id": "pop-01",
+    "title": "Şımarık",
+    "artist": "Tarkan",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-02",
+    "title": "Kaçın Kurası",
+    "artist": "Sezen Aksu",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-03",
+    "title": "Aşkın Olayım",
+    "artist": "Simge",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-04",
+    "title": "Sarmaşık",
+    "artist": "Mabel Matiz",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-05",
+    "title": "Düm Tek Tek",
+    "artist": "Hadise",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-06",
+    "title": "Bangır Bangır",
+    "artist": "Gülşen",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-07",
+    "title": "Kuzu Kuzu",
+    "artist": "Tarkan",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-08",
+    "title": "Vaziyetler",
+    "artist": "Sıla",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-09",
+    "title": "Çakkıdı",
+    "artist": "Kenan Doğulu",
+    "genre": "Pop"
+  },
+  {
+    "id": "pop-10",
+    "title": "Sen Olsan Bari",
+    "artist": "Aleyna Tilki",
+    "genre": "Pop"
+  },
+  {
+    "id": "rap-01",
+    "title": "Suspus",
+    "artist": "Ceza",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-02",
+    "title": "Galiba - Orijinal Rap Versiyon",
+    "artist": "Sagopa Kajmer",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-03",
+    "title": "Parla - 100. Yıl Marşı",
+    "artist": "Norm Ender",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-04",
+    "title": "Felaket",
+    "artist": "Ezhel",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-05",
+    "title": "Neyim Var Ki (feat. Sagopa K)",
+    "artist": "Ceza",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-06",
+    "title": "Krvn",
+    "artist": "UZI",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-07",
+    "title": "Geceler",
+    "artist": "Ezhel",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-08",
+    "title": "Holocaust",
+    "artist": "Ceza",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-09",
+    "title": "KHK",
+    "artist": "Khontkar",
+    "genre": "Rap"
+  },
+  {
+    "id": "rap-10",
+    "title": "YIN YANG",
+    "artist": "Motive",
+    "genre": "Rap"
+  },
+  {
+    "id": "rock-01",
+    "title": "Gülpembe",
+    "artist": "Barış Manço",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-02",
+    "title": "Resimdeki Gözyaşları",
+    "artist": "Cem Karaca",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-03",
+    "title": "Her Şeyi Yak",
+    "artist": "Duman",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-04",
+    "title": "Sil Baştan",
+    "artist": "Şebnem Ferah",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-05",
+    "title": "Paramparça",
+    "artist": "Teoman",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-06",
+    "title": "Ali Desidero",
+    "artist": "MFÖ",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-07",
+    "title": "Bir Kadın Çizeceksin",
+    "artist": "maNga",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-08",
+    "title": "Ben Böyleyim",
+    "artist": "Athena",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-09",
+    "title": "Olmasa Mektubun",
+    "artist": "Yeni Türkü",
+    "genre": "Rock"
+  },
+  {
+    "id": "rock-10",
+    "title": "Ben Seni Sevduğumi",
+    "artist": "Kâzım Koyuncu",
+    "genre": "Rock"
+  }
+]

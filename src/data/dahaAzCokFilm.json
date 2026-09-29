@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "film-278",
+    "label": "Esaretin Bedeli",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/7T2SDS5efuJiK45oyKoEzf9RKjw.jpg"
+  },
+  {
+    "id": "film-238",
+    "label": "Baba",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vseIVRdN4xasYwStQIi6SI7DcEu.jpg"
+  },
+  {
+    "id": "film-155",
+    "label": "Kara Şövalye",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/7IPCEr7ifdH5CtU97QG7XgAAtOp.jpg"
+  },
+  {
+    "id": "film-389",
+    "label": "12 Öfkeli Adam",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/jA3MHw8Nl4sevDqhgS8ZptwXN8b.jpg"
+  },
+  {
+    "id": "film-424",
+    "label": "Schindler'in Listesi",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/2mOH8EqumIaepdP94e0cy4Xnyg7.jpg"
+  },
+  {
+    "id": "film-680",
+    "label": "Ucuz Roman",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/AgY33Wtg4737MhYopJSFyKWhKsO.jpg"
+  },
+  {
+    "id": "film-13",
+    "label": "Forrest Gump",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg"
+  },
+  {
+    "id": "film-550",
+    "label": "Dövüş Kulübü",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/yjMuqAyJUoQZGWsZ0vZuYj5inAR.jpg"
+  },
+  {
+    "id": "film-27205",
+    "label": "Başlangıç",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xn0Kcg4e6p0mLxVS3nAWhNmW2Ni.jpg"
+  },
+  {
+    "id": "film-157336",
+    "label": "Yıldızlararası",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xbiycuc84TrieEWwkkuH2hoEa9S.jpg"
+  },
+  {
+    "id": "film-603",
+    "label": "Matrix",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
+  },
+  {
+    "id": "film-769",
+    "label": "Sıkı Dostlar",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/oMPDt1rNLYEVRpigNLaiTnibVn8.jpg"
+  },
+  {
+    "id": "film-807",
+    "label": "Yedi",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3qpOnTbxPK2HeHObBHttcvQHLGI.jpg"
+  },
+  {
+    "id": "film-98",
+    "label": "Gladyatör",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/wN2xWp1eIwCKOD0BHTcErTBv1Uq.jpg"
+  },
+  {
+    "id": "film-496243",
+    "label": "Parazit",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/nx7TmJDMkgyBc09DVo5ze52Wt3F.jpg"
+  },
+  {
+    "id": "film-244786",
+    "label": "Whiplash",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/q3Ev5vIC3fklycV9kfpVIdbRe14.jpg"
+  },
+  {
+    "id": "film-497",
+    "label": "Yeşil Yol",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/6ZNnKbdDRQm0ftkq3OKiDrwZkIN.jpg"
+  },
+  {
+    "id": "film-8587",
+    "label": "Aslan Kral",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/fevIusz4PyAwrlU8CmIfATVJf3K.jpg"
+  },
+  {
+    "id": "film-129",
+    "label": "Ruhların Kaçışı",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xvOEOMCzfV8qXkd1n1btZ8q4Psd.jpg"
+  },
+  {
+    "id": "film-475557",
+    "label": "Joker",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3DeEAwO42j4VmRdI4KSSN1VloM.jpg"
+  },
+  {
+    "id": "film-597",
+    "label": "Titanik",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hEntfzxB8yUXIxqZY929dELjLsi.jpg"
+  },
+  {
+    "id": "film-19995",
+    "label": "Avatar",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/gKY6q7SjCkAU6FqvqWybDYgUKIF.jpg"
+  },
+  {
+    "id": "film-329",
+    "label": "Jurassic Park",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg"
+  },
+  {
+    "id": "film-105",
+    "label": "Geleceğe Dönüş",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/s6pfkJuTFZe7BCfJ5vOCECNmQbW.jpg"
+  },
+  {
+    "id": "film-68718",
+    "label": "Zincirsiz",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/wjN6Cg2Ow7eP1HotskuDyVQQiKb.jpg"
+  },
+  {
+    "id": "film-1124",
+    "label": "Prestij",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/wiSuje8hdVuwM0pvhtSFirCHmJF.jpg"
+  },
+  {
+    "id": "film-11324",
+    "label": "Zindan Adası",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/epp8lnSQEWe9cYQACEhBDZTY18L.jpg"
+  },
+  {
+    "id": "film-313369",
+    "label": "Aşıklar Şehri",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xDBZNak6HyOEjKIbrjqDxllWXRn.jpg"
+  },
+  {
+    "id": "film-106646",
+    "label": "Para Avcısı",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ywn2c1sSfdNdJB5O9Hoy3ETfTY2.jpg"
+  },
+  {
+    "id": "film-76341",
+    "label": "Mad Max: Fury Road",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/mnKUoJFdNbQVs4f7nEGW6p7CgsA.jpg"
+  },
+  {
+    "id": "film-120467",
+    "label": "Büyük Budapeşte Oteli",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hYdclrAOjWtxTgE7PZy102hTYAf.jpg"
+  },
+  {
+    "id": "film-872585",
+    "label": "Oppenheimer",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/mmZi0tyPFfbcCqEsJIPxVldCPOL.jpg"
+  },
+  {
+    "id": "film-346698",
+    "label": "Barbie",
+    "value": 6.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/o1BB6Cimho6R72QzJDwcwnCkp2a.jpg"
+  },
+  {
+    "id": "film-438631",
+    "label": "Dune: Çöl Gezegeni",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/roeYIqWHyVHcjWDk6SOaepNEk0y.jpg"
+  },
+  {
+    "id": "film-361743",
+    "label": "Top Gun: Maverick",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
+  },
+  {
+    "id": "film-419430",
+    "label": "Kapan",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/2Uo7WiwHKb27i8Qskqy4arxaoLz.jpg"
+  },
+  {
+    "id": "film-293660",
+    "label": "Deadpool",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/99p0n6EhX6PebGIScQ0uRZ8aUv8.jpg"
+  },
+  {
+    "id": "film-109445",
+    "label": "Karlar Ülkesi",
+    "value": 7.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/7U6FUO2Utiog1jJjIyJ8OPfJr2J.jpg"
+  },
+  {
+    "id": "film-808",
+    "label": "Şrek",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/cVeJ2kQ9qZmpud57iSKsANyAsNp.jpg"
+  },
+  {
+    "id": "film-425",
+    "label": "Buz Devri",
+    "value": 7.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/aa1EbBjzHHfUry3ymThTuP9BpQp.jpg"
+  },
+  {
+    "id": "film-771",
+    "label": "Evde Tek Başına",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/eW5LQO6pyd3WyFUvyeL5WAffZmL.jpg"
+  },
+  {
+    "id": "film-9799",
+    "label": "Hızlı ve Öfkeli",
+    "value": 7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zA9pwvMF3oebsypZkDVHBmlzxwf.jpg"
+  },
+  {
+    "id": "film-1858",
+    "label": "Transformers",
+    "value": 6.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/6yWu6GC2kbfh9nEzyh1VFA0SyNY.jpg"
+  },
+  {
+    "id": "film-8966",
+    "label": "Alacakaranlık",
+    "value": 6.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/daNvGuP0Vwl3RQl5xILSGwrTHv9.jpg"
+  },
+  {
+    "id": "film-297761",
+    "label": "Suicide Squad: Gerçek Kötüler",
+    "value": 5.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/yVQ1cRjLqGvkamw8HtuPVLUaI6g.jpg"
+  },
+  {
+    "id": "film-536869",
+    "label": "Cats",
+    "value": 4.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/aCNch5FmzT2WaUcY44925owIZXY.jpg"
+  },
+  {
+    "id": "film-26900",
+    "label": "Eşkıya",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8M2DKRBI9O79dSXGGbshugpQgor.jpg"
+  },
+  {
+    "id": "film-13393",
+    "label": "Babam ve Oğlum",
+    "value": 7.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hPRCaz9PEjUZOknzCdyWGaGUN3.jpg"
+  },
+  {
+    "id": "film-265169",
+    "label": "Kış Uykusu",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/y51wK57MWxxzJaMDUXBWDV2RlkU.jpg"
+  },
+  {
+    "id": "film-27275",
+    "label": "G.O.R.A.",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/bxHULJqeW1GlPWr7uvRoWQWsDIe.jpg"
+  },
+  {
+    "id": "film-120",
+    "label": "Yüzüklerin Efendisi: Yüzük Kardeşliği",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/37kdeAEyw8YlVLaAhYazBRAni9S.jpg"
+  },
+  {
+    "id": "film-121",
+    "label": "Yüzüklerin Efendisi: İki Kule",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/AaiH8Yocbg0VMfs0PyXJTJbWrp2.jpg"
+  },
+  {
+    "id": "film-122",
+    "label": "Yüzüklerin Efendisi: Kralın Dönüşü",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qwigzi0gOcXZRxbm488wT31t2UZ.jpg"
+  },
+  {
+    "id": "film-11",
+    "label": "Yıldız Savaşları: Yeni Umut",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/fT9pEpt2pd0m7ZC0shQo08E77xI.jpg"
+  },
+  {
+    "id": "film-1891",
+    "label": "Yıldız Savaşları: İmparator'un Dönüşü",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/r9w1NH3495IW27qEjUCJ8r7Wt4Y.jpg"
+  },
+  {
+    "id": "film-348",
+    "label": "Yaratık",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dH1emjWR6ZsYsnsetlFU65KaCnb.jpg"
+  },
+  {
+    "id": "film-679",
+    "label": "Yaratığın Dönüşü",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vhtEL7itK7BErXTWtcKSspUuIdE.jpg"
+  },
+  {
+    "id": "film-280",
+    "label": "Terminatör 2: Mahşer Günü",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/2e2oJJKdNrxg8k74ty3fB90xLfl.jpg"
+  },
+  {
+    "id": "film-274",
+    "label": "Kuzuların Sessizliği",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/4AoIoP6q006blFeb7vV9kKPD4En.jpg"
+  },
+  {
+    "id": "film-857",
+    "label": "Er Ryan'ı Kurtarmak",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/b9QqS5Hz1CqT16ZxwxJqwzCfIgr.jpg"
+  },
+  {
+    "id": "film-1422",
+    "label": "Köstebek",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8dnfEnLpLJh7dRHnkN8AfIo4mpq.jpg"
+  },
+  {
+    "id": "film-77",
+    "label": "Akıl Defteri",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/31yNVJl968krAHy3f5nFB6kLl7i.jpg"
+  },
+  {
+    "id": "film-539",
+    "label": "Sapık",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dx1GWvjwCSYgQATVyS1D1OuTtni.jpg"
+  },
+  {
+    "id": "film-567",
+    "label": "Arka Pencere",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/g50uFnTJy6NnC23NGbE7FmZWHjC.jpg"
+  },
+  {
+    "id": "film-62",
+    "label": "2001: Uzay Yolu Macerası",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9dQnDc1tPrfLjqlBU4H5ai1ysHa.jpg"
+  },
+  {
+    "id": "film-185",
+    "label": "Otomatik Portakal",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/kOcJpqibBezU00tG4FVEhML8PU8.jpg"
+  },
+  {
+    "id": "film-694",
+    "label": "Cinnet",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/yA02bdLNrd8Vbots5qiw9zAD2jC.jpg"
+  },
+  {
+    "id": "film-103",
+    "label": "Taksi Şoförü",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/pnPFEAOr8Spf1eQC8Cy5nLZWxuz.jpg"
+  },
+  {
+    "id": "film-28",
+    "label": "Kıyamet",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/d4upwbYvt4p293O4Fo38alH9mQ3.jpg"
+  },
+  {
+    "id": "film-311",
+    "label": "Bir Zamanlar Amerika",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vpbS5T9Y6y1ozK5p1ECwGAaZz9m.jpg"
+  },
+  {
+    "id": "film-914",
+    "label": "Büyük Diktatör",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8vFowRZZupdnmN8TKWkjASUsgD1.jpg"
+  },
+  {
+    "id": "film-3082",
+    "label": "Modern Zamanlar",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/yJuBu0pW9Ig8NyVJf5q9dW2VWaC.jpg"
+  },
+  {
+    "id": "film-11216",
+    "label": "Cennet Sineması",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3hcXpztAe9L6VLpDGwohS01ZSxw.jpg"
+  },
+  {
+    "id": "film-637",
+    "label": "Hayat Güzeldir",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/bPliFlnRsZmH9Mr7F2CDqRsh50H.jpg"
+  },
+  {
+    "id": "film-194",
+    "label": "Amelie",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/d6aA2hQmrUN1pGzioXldstNelur.jpg"
+  },
+  {
+    "id": "film-670",
+    "label": "İhtiyar Delikanlı",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xpa9ybm6tYGna5LseqSXvKpSSJn.jpg"
+  },
+  {
+    "id": "film-128",
+    "label": "Prenses Mononoke",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8d1goRMzqe0lonBQXaVaqmEXA8n.jpg"
+  },
+  {
+    "id": "film-12477",
+    "label": "Ateşböceklerinin Mezarı",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9YxaI1dorbiVLhkCdLgR8eap9hN.jpg"
+  },
+  {
+    "id": "film-8392",
+    "label": "Komşum Totoro",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rdTqsyc7vuMVGDsnDRTv0Xk4rm9.jpg"
+  },
+  {
+    "id": "film-4935",
+    "label": "Yürüyen Şato",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8rUEO5BjmWEQcGUm5SmO134NBC3.jpg"
+  },
+  {
+    "id": "film-354912",
+    "label": "Coco",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/f9Ro5x36UTDdHFrhnHeXqlhBVRF.jpg"
+  },
+  {
+    "id": "film-14160",
+    "label": "Yukarı Bak",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/c9QLSX3qEW8FO7UgT2pyfC1LDzb.jpg"
+  },
+  {
+    "id": "film-10681",
+    "label": "VOL-İ",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/jzCpGwWHUwby14KPJJWla9ybY81.jpg"
+  },
+  {
+    "id": "film-862",
+    "label": "Oyuncak Hikayesi",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/4KAtscEx3Pt9YPpNuK3BO6irQn1.jpg"
+  },
+  {
+    "id": "film-10193",
+    "label": "Oyuncak Hikayesi 3",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qBNNAO9EVqx1vRdCbBtr5TDonA4.jpg"
+  },
+  {
+    "id": "film-12",
+    "label": "Kayıp Balık Nemo",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vz6BmebarfIsK1ZSzSXonZsuY3c.jpg"
+  },
+  {
+    "id": "film-150540",
+    "label": "Ters Yüz",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1EPfG2nVMhF5CDcAK0IeSsnBsVw.jpg"
+  },
+  {
+    "id": "film-2062",
+    "label": "Ratatuy",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/a7hjVvftDqdgqZidGyoDkpXWjtK.jpg"
+  },
+  {
+    "id": "film-585",
+    "label": "Sevimli Canavarlar",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/y4YRiGgYxttCVUvs9vhxfGezHx4.jpg"
+  },
+  {
+    "id": "film-9806",
+    "label": "İnanılmaz Aile",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/lYO0iRJIqRcqO7lWS5jYDc8mvLo.jpg"
+  },
+  {
+    "id": "film-10191",
+    "label": "Ejderhanı Nasıl Eğitirsin",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vurfC4fEqOw2lp6AESkbkIRcz9m.jpg"
+  },
+  {
+    "id": "film-9502",
+    "label": "Kung Fu Panda",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ni4z0DOBm6padSbnqbps4hVYehK.jpg"
+  },
+  {
+    "id": "film-953",
+    "label": "Madagaskar",
+    "value": 6.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/2yHiW0RRwoMXkuI2bYIIoxNH93P.jpg"
+  },
+  {
+    "id": "film-20352",
+    "label": "Çılgın Hırsız",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qB1x5Rnx3HHbecoIkpr98BXV2dB.jpg"
+  },
+  {
+    "id": "film-211672",
+    "label": "Minyonlar",
+    "value": 6.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9HFOTzwGLOOAwCTuR5nmj7bnOQE.jpg"
+  },
+  {
+    "id": "film-24428",
+    "label": "Yenilmezler",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1sCJVLAqKGgKIZpKGXURjpKBwgu.jpg"
+  },
+  {
+    "id": "film-299536",
+    "label": "Avengers: Sonsuzluk Savaşı",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/7FQTJyrvhUp9oYDhHgujWRlxUES.jpg"
+  },
+  {
+    "id": "film-299534",
+    "label": "Avengers: Endgame",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zx1uMVXSJrzYCA8KTpmeEBqBx66.jpg"
+  },
+  {
+    "id": "film-1726",
+    "label": "Demir Adam",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9qjZeIZ52CWgmZuEuVuBPaypChy.jpg"
+  },
+  {
+    "id": "film-118340",
+    "label": "Galaksinin Koruyucuları",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/g9NAhhkM3nSstFRVHWgnnDdavv5.jpg"
+  },
+  {
+    "id": "film-324857",
+    "label": "Örümcek Adam: Örümcek Evreninde",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ii2MsmBmTL5kQuvBRCtKokUAF8v.jpg"
+  },
+  {
+    "id": "film-284054",
+    "label": "Black Panther",
+    "value": 7.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/i86opH1OBRjBvNmjbGhHjbJ0ybU.jpg"
+  },
+  {
+    "id": "film-263115",
+    "label": "Logan: Wolverine",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3U06IOlGpzIX1b6RsqXqqjv9EpU.jpg"
+  },
+  {
+    "id": "film-414906",
+    "label": "The Batman",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3B19RaHTSpyNEcjWtsAPqgJsQ0h.jpg"
+  },
+  {
+    "id": "film-272",
+    "label": "Batman Başlıyor",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/f1pQPzFmBXyFaScnrqeSm8lvCH9.jpg"
+  },
+  {
+    "id": "film-49026",
+    "label": "Kara Şövalye Yükseliyor",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/jtB2vPm7Drpw0AToSxKIcxjRcgC.jpg"
+  },
+  {
+    "id": "film-335983",
+    "label": "Venom: Zehirli Öfke",
+    "value": 6.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/bQK5C2mL7DJUpQSahoT2CYMtvkX.jpg"
+  },
+  {
+    "id": "film-526896",
+    "label": "Morbius",
+    "value": 5.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3oyVnJLplWD22jRwD8ZYkFoJWhn.jpg"
+  },
+  {
+    "id": "film-166424",
+    "label": "Fantastik Dörtlü",
+    "value": 4.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xDGgIWDNSypqDIwZpt2Vn0BCLK1.jpg"
+  },
+  {
+    "id": "film-578",
+    "label": "Jaws",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/tZB1crCkYi3DI90lwYgZlnmeRw6.jpg"
+  },
+  {
+    "id": "film-601",
+    "label": "E.T.",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zC6tKwa9O3lTFtngCBHqGOkxWk.jpg"
+  },
+  {
+    "id": "film-85",
+    "label": "Indiana Jones: Kutsal Hazine Avcıları",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/o79udSXjgwW1KBZSv9sGYGKf9Aa.jpg"
+  },
+  {
+    "id": "film-1366",
+    "label": "Rocky",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/oWABvAo7vWGGaFk37yUd0SKhrch.jpg"
+  },
+  {
+    "id": "film-37165",
+    "label": "Truman Show",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+  },
+  {
+    "id": "film-489",
+    "label": "Can Dostum",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qXzGp5BfVeC9fOxdpVxBReyNMOF.jpg"
+  },
+  {
+    "id": "film-453",
+    "label": "Akıl Oyunları",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/iQNRCyDdb5wxOmmkou7t5kKKZaU.jpg"
+  },
+  {
+    "id": "film-12405",
+    "label": "Milyoner",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/kUWM6uZXAf5oodgCOQcpnoLXFIc.jpg"
+  },
+  {
+    "id": "film-423",
+    "label": "Piyanist",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8gdOy6vd1lK2KyakZroETXyB4re.jpg"
+  },
+  {
+    "id": "film-6977",
+    "label": "İhtiyarlara Yer Yok",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/20SlBJZS0Hfjt4WeT6GTCMu7lzq.jpg"
+  },
+  {
+    "id": "film-7345",
+    "label": "Kan Dökülecek",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/4HaeMedO6VQKtcxidDA5U1aZs5x.jpg"
+  },
+  {
+    "id": "film-78",
+    "label": "Bıçak Sırtı",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8VGASxEyFErWwEXDbyEKX9lKntZ.jpg"
+  },
+  {
+    "id": "film-335984",
+    "label": "Blade Runner 2049: Bıçak Sırtı",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/yTk0pkcjIRTbbAfJ12ZVW0Cebk0.jpg"
+  },
+  {
+    "id": "film-329865",
+    "label": "Geliş",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/gZbIAIOwkjapfhBGOzPMCdjdih3.jpg"
+  },
+  {
+    "id": "film-49047",
+    "label": "Yerçekimi",
+    "value": 7.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/2Oy1VnorCK99ued9t8XEpYC2CZw.jpg"
+  },
+  {
+    "id": "film-286217",
+    "label": "Marslı",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dET1KGozUz3FW7ZO60ybCV8MsTh.jpg"
+  },
+  {
+    "id": "film-152601",
+    "label": "Aşk",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/tcSZA1HAsRAbDgndURXl04cgPDe.jpg"
+  },
+  {
+    "id": "film-545611",
+    "label": "Her Şey Her Yerde Aynı Anda",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vt5Fd1wouNEL7HN3TQ0PMls4auE.jpg"
+  },
+  {
+    "id": "film-546554",
+    "label": "Bıçaklar Çekildi",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/tZ6ABcJr1GeGff7fyEsReWXnXN.jpg"
+  },
+  {
+    "id": "film-530915",
+    "label": "1917",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/cTzIxbvk3zcvN2X4PLaEdnRkPvh.jpg"
+  },
+  {
+    "id": "film-424694",
+    "label": "Bohemian Rhapsody",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xsdYLbx52pMDLdh0XkTKvwXOc7W.jpg"
+  },
+  {
+    "id": "film-37799",
+    "label": "Sosyal Ağ",
+    "value": 7.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rgK99zH1HbfbWPHyGJBlumJCeXf.jpg"
+  },
+  {
+    "id": "film-640",
+    "label": "Sıkıysa Yakala",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/pMuNEWOF5Rio9PA7ZblZMkoaN2W.jpg"
+  },
+  {
+    "id": "film-745",
+    "label": "Altıncı His",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/bnbKY0F0LgQlsXMKk1v2IqnUbM8.jpg"
+  },
+  {
+    "id": "film-210577",
+    "label": "Kayıp Kız",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ukTOTpF1KK2L4qURnFsGtWpjYO.jpg"
+  },
+  {
+    "id": "film-1949",
+    "label": "Zodiac",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/uNPKZ19gOUNcYD4i9jhRFQoJnSN.jpg"
+  },
+  {
+    "id": "film-14",
+    "label": "Amerikan Güzeli",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/al7lLfyGPtzJivdcK6dl67B2Z6S.jpg"
+  },
+  {
+    "id": "film-641",
+    "label": "Bir Rüya İçin Ağıt",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/e4hGTEYhMZjFERnNPJCS9KVqrYo.jpg"
+  },
+  {
+    "id": "film-627",
+    "label": "Trainspotting",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1jUC02qsqS2NxBMFarbIhcQtazV.jpg"
+  },
+  {
+    "id": "film-500",
+    "label": "Rezervuar Köpekleri",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/s20CFCa4rlkL2l3uDJyljkZwB90.jpg"
+  },
+  {
+    "id": "film-24",
+    "label": "Kill Bill: Vol. 1",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+  },
+  {
+    "id": "film-16869",
+    "label": "Soysuzlar Çetesi",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/w3M2SpS71EBl3oXmUGHet2rCm71.jpg"
+  },
+  {
+    "id": "film-466272",
+    "label": "Bir Zamanlar… Hollywood'da",
+    "value": 7.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8irilDRdSFs93B5qyaPNbHiytt8.jpg"
+  },
+  {
+    "id": "film-374720",
+    "label": "Dunkirk",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/iwvcIamoONxy9yB2td7yjRcbTQ2.jpg"
+  },
+  {
+    "id": "film-577922",
+    "label": "Tenet",
+    "value": 7.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dj6ji5YuvYK4TqfrI7N3EwoRstA.jpg"
+  },
+  {
+    "id": "film-693134",
+    "label": "Dune: Çöl Gezegeni - Bölüm İki",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/tihf8Trht9zP3scmUQfvGlAY9FU.jpg"
+  },
+  {
+    "id": "film-792307",
+    "label": "Zavallılar",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/jzgOjZ71TcHqWHzUsWdTvvnisob.jpg"
+  },
+  {
+    "id": "film-933260",
+    "label": "Cevher",
+    "value": 7.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rNrBHeqnDA8aHIz9eYkBskcKhq7.jpg"
+  },
+  {
+    "id": "film-454626",
+    "label": "Kirpi Sonic",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/eyF2vFCCOQrKoma8mU0W76MU6Mw.jpg"
+  },
+  {
+    "id": "film-353486",
+    "label": "Jumanji: Vahşi Orman",
+    "value": 6.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hDmrv2Ac65QNHxFu8ZcePwlDgc0.jpg"
+  },
+  {
+    "id": "film-22",
+    "label": "Karayip Korsanları: Siyah İnci'nin Laneti",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hGIDdwPMM8tusFMiobZiJ942O4c.jpg"
+  },
+  {
+    "id": "film-671",
+    "label": "Harry Potter ve Felsefe Taşı",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3mDokw9KewPQMpY1pB912Y9SVYB.jpg"
+  },
+  {
+    "id": "film-673",
+    "label": "Harry Potter ve Azkaban Tutsağı",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hyxksRw6NmbPqGI2z7pebORvjx3.jpg"
+  },
+  {
+    "id": "film-70160",
+    "label": "Açlık Oyunları",
+    "value": 7.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/tSYjmaqkmlhRm6CJuutxcetalto.jpg"
+  },
+  {
+    "id": "film-216015",
+    "label": "Grinin Elli Tonu",
+    "value": 5.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/4bwczoC6xzbSw7WCW7HgzN0D8Mt.jpg"
+  },
+  {
+    "id": "film-5491",
+    "label": "Savaşçı",
+    "value": 3.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/wXCRuBHdJ5aTFQdsuGJFXNdo79T.jpg"
+  },
+  {
+    "id": "film-472454",
+    "label": "Ayla",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ggtQgembIFKJcSSeuxJocOklasp.jpg"
+  },
+  {
+    "id": "film-74879",
+    "label": "Bir Zamanlar Anadolu'da",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/tWZgd5cQmVhYlvWPV46ljBoWLDT.jpg"
+  },
+  {
+    "id": "film-8905",
+    "label": "Üç Maymun",
+    "value": 6.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ko0H3J85MHQ2YNd2tMUjkAxYRHM.jpg"
+  },
+  {
+    "id": "film-31026",
+    "label": "Uzak",
+    "value": 7.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rb6I7xjZJiso9dKdxVh1zOFTDfv.jpg"
+  },
+  {
+    "id": "film-418472",
+    "label": "Ahlat Ağacı",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1uh8GqvjDYPs545zKToqjR0Pni4.jpg"
+  },
+  {
+    "id": "film-89584",
+    "label": "Fetih 1453",
+    "value": 6.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/heoytIIcboUKfzUjbJchGXKWP6v.jpg"
+  },
+  {
+    "id": "film-528372",
+    "label": "Müslüm",
+    "value": 7.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/cbY2IlnNk85MqaPWgPZyJUD4vnz.jpg"
+  },
+  {
+    "id": "film-31060",
+    "label": "Recep İvedik",
+    "value": 4.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/heKqSDyQuVzPrQIuvY5mqC3oc6M.jpg"
+  },
+  {
+    "id": "film-246524",
+    "label": "Düğün Dernek",
+    "value": 6.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xlkjSMHJvgqOTMa2cQyn9GscA8E.jpg"
+  },
+  {
+    "id": "film-57892",
+    "label": "Vizontele",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ipHbJ54NuA8tobUDrEV6odOrYhK.jpg"
+  },
+  {
+    "id": "film-13296",
+    "label": "Hokkabaz",
+    "value": 6.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/95LhqrzaGi1UjLA1QAPFevqI4cr.jpg"
+  },
+  {
+    "id": "film-30634",
+    "label": "Organize İşler",
+    "value": 6.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9hydImnaVkVv6PinLMzozFiPP1h.jpg"
+  },
+  {
+    "id": "film-171160",
+    "label": "Kelebeğin Rüyası",
+    "value": 7.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/wH4wE8wBuwDOIiLcLARzGOz2gSS.jpg"
+  },
+  {
+    "id": "film-477313",
+    "label": "Aile Arasında",
+    "value": 6.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/lxA6UjZqRX1LFCQ6kgjpbCCP3JI.jpg"
+  },
+  {
+    "id": "film-52556",
+    "label": "Yol",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1UaAS707iiNxoH7bDAx26crZxyy.jpg"
+  },
+  {
+    "id": "film-38794",
+    "label": "Tosun Paşa",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/aE8cMuRNYltzzW36N2hC3zyZQm2.jpg"
+  },
+  {
+    "id": "film-83651",
+    "label": "Hababam Sınıfı",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/n58QmaMaw7kN3sg2EEV9HMq0jkR.jpg"
+  },
+  {
+    "id": "film-31405",
+    "label": "Süt Kardeşler",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vGW4S5CBTiIdkFE0nX6wljMDLjo.jpg"
+  },
+  {
+    "id": "film-289",
+    "label": "Kazablanka",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg"
+  },
+  {
+    "id": "film-372058",
+    "label": "Senin Adın",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/jkK6XdJqSCm7maDV8xgbE0JVNIP.jpg"
+  },
+  {
+    "id": "film-264660",
+    "label": "Ex Machina",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg"
+  }
+]

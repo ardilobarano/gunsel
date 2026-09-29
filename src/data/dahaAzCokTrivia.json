@@ -1,0 +1,730 @@
+[
+  {
+    "id": "dag-everest",
+    "label": "Everest Dağı",
+    "value": 8849,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Everest_kalapatthar_crop.jpg/330px-Everest_kalapatthar_crop.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-k2",
+    "label": "K2",
+    "value": 8611,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chogori.jpg/330px-Chogori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-kangchenjunga",
+    "label": "Kançencunga",
+    "value": 8586,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kanchenjunga.JPG/330px-Kanchenjunga.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-kilimanjaro",
+    "label": "Kilimanjaro",
+    "value": 5895,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mt._Kilimanjaro_12.2006.jpg/330px-Mt._Kilimanjaro_12.2006.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-elbruz",
+    "label": "Elbruz Dağı",
+    "value": 5642,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Elbrus.jpg/330px-Elbrus.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-agri",
+    "label": "Ağrı Dağı",
+    "value": 5137,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/B%C3%BCy%C3%BCk_ve_K%C3%BC%C3%A7%C3%BCk_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg/330px-B%C3%BCy%C3%BCk_ve_K%C3%BC%C3%A7%C3%BCk_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-montblanc",
+    "label": "Mont Blanc",
+    "value": 4808,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Monte_bianco.JPG/330px-Monte_bianco.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-erciyes",
+    "label": "Erciyes Dağı",
+    "value": 3917,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wild_horses1.jpg/330px-Wild_horses1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-fuji",
+    "label": "Fuji Dağı",
+    "value": 3776,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Fuji_Kawaguchi_357.JPG/330px-Fuji_Kawaguchi_357.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-uludag",
+    "label": "Uludağ",
+    "value": 2543,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Uludag.JPG/330px-Uludag.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-nil",
+    "label": "Nil Nehri",
+    "value": 6650,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nile.png/330px-Nile.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-amazon",
+    "label": "Amazon Nehri",
+    "value": 6400,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mouths_of_amazon_geocover_1990.png/330px-Mouths_of_amazon_geocover_1990.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-yangtze",
+    "label": "Yangtze Nehri",
+    "value": 6300,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Yangtze_River_Map.png/330px-Yangtze_River_Map.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-mississippi",
+    "label": "Mississippi-Missouri",
+    "value": 6275,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mississippi_River_-_New_Orleans.jpg/330px-Mississippi_River_-_New_Orleans.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-yenisey",
+    "label": "Yenisey Nehri",
+    "value": 5539,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Beldir.jpg/330px-Beldir.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-sariirmak",
+    "label": "Sarı Irmak",
+    "value": 5464,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Yellowrivermap.jpg/330px-Yellowrivermap.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-volga",
+    "label": "Volga Nehri",
+    "value": 3531,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Volga.A2002137.0745.250m.jpg/330px-Volga.A2002137.0745.250m.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-tuna",
+    "label": "Tuna Nehri",
+    "value": 2860,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/330px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-firat",
+    "label": "Fırat Nehri",
+    "value": 2800,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Euphrates_River_in_Turkey%2C_Rumkale_%2852031477798%29.jpg/330px-The_Euphrates_River_in_Turkey%2C_Rumkale_%2852031477798%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-kizilirmak",
+    "label": "Kızılırmak",
+    "value": 1355,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/K%C4%B1z%C4%B1l%C4%B1rmak_Sivas.jpg/330px-K%C4%B1z%C4%B1l%C4%B1rmak_Sivas.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-rusya",
+    "label": "Rusya",
+    "value": 17098242,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/langtr-330px-Flag_of_Russia.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-kanada",
+    "label": "Kanada",
+    "value": 9984670,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/langtr-330px-Flag_of_Canada_%28Pantone%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-abd",
+    "label": "ABD",
+    "value": 9833517,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg/langtr-330px-Flag_of_the_United_States_%28DoS_ECA_Color_Standard%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-cin",
+    "label": "Çin",
+    "value": 9596961,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langtr-330px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-brezilya",
+    "label": "Brezilya",
+    "value": 8515767,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langtr-330px-Flag_of_Brazil.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-avustralya",
+    "label": "Avustralya",
+    "value": 7692024,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/langtr-330px-Flag_of_Australia_%28converted%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-hindistan",
+    "label": "Hindistan",
+    "value": 3287263,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/langtr-330px-Flag_of_India.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-turkiye",
+    "label": "Türkiye",
+    "value": 783562,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langtr-330px-Flag_of_Turkey.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-fransa",
+    "label": "Fransa",
+    "value": 643801,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langtr-330px-Flag_of_France.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-japonya",
+    "label": "Japonya",
+    "value": 377975,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langtr-330px-Flag_of_Japan.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-almanya",
+    "label": "Almanya",
+    "value": 357588,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langtr-330px-Flag_of_Germany.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-yunanistan",
+    "label": "Yunanistan",
+    "value": 131957,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/langtr-330px-Flag_of_Greece.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-aconcagua",
+    "label": "Aconcagua",
+    "value": 6961,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aconcagua_13.JPG/330px-Aconcagua_13.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-denali",
+    "label": "Denali",
+    "value": 6194,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Mount_mckinley.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "dag-vinson",
+    "label": "Vinson Dağı",
+    "value": 4892,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Vinson_Massif_from_space.jpg/330px-Vinson_Massif_from_space.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-matterhorn",
+    "label": "Matterhorn",
+    "value": 4478,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Matterhorn-EastAndNorthside-viewedFromZermatt_landscapeformat-2.jpg/330px-Matterhorn-EastAndNorthside-viewedFromZermatt_landscapeformat-2.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-suphan",
+    "label": "Süphan Dağı",
+    "value": 4058,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Suphan_01.jpg/330px-Suphan_01.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-zugspitze",
+    "label": "Zugspitze",
+    "value": 2962,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Zugspitze_2.JPG/330px-Zugspitze_2.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-kazdagi",
+    "label": "Kaz Dağı",
+    "value": 1774,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Troas.png/330px-Troas.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dag-tablemountain",
+    "label": "Masa Dağı",
+    "value": 1085,
+    "unit": "metre",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Table_mountain_and_the_ocean_cape_town.JPG/330px-Table_mountain_and_the_ocean_cape_town.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-kongo",
+    "label": "Kongo Nehri",
+    "value": 4700,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Matadi07.jpg/330px-Matadi07.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-lena",
+    "label": "Lena Nehri",
+    "value": 4400,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Lena_watershed.png/330px-Lena_watershed.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-niger",
+    "label": "Nijer Nehri",
+    "value": 4200,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Niger_River_View%2C_Djenne_%286861797%29.jpg/330px-Niger_River_View%2C_Djenne_%286861797%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-ob",
+    "label": "Ob Nehri",
+    "value": 3650,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/March_evening._The_sun_fell_across_the_Ob_river.jpg/330px-March_evening._The_sun_fell_across_the_Ob_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-dicle",
+    "label": "Dicle Nehri",
+    "value": 1900,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/F%C4%B1rat-Dicle.png/330px-F%C4%B1rat-Dicle.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-ren",
+    "label": "Ren Nehri",
+    "value": 1230,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Middle_Bridge%2C_Basel%2C_Switzerland.JPG/330px-Middle_Bridge%2C_Basel%2C_Switzerland.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-sakarya",
+    "label": "Sakarya Nehri",
+    "value": 824,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sakarya_nehri.jpg/330px-Sakarya_nehri.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nehir-meric",
+    "label": "Meriç Nehri",
+    "value": 480,
+    "unit": "km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Meri%C3%A7_River.jpg/330px-Meri%C3%A7_River.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-arjantin",
+    "label": "Arjantin",
+    "value": 2780400,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langtr-330px-Flag_of_Argentina.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-cezayir",
+    "label": "Cezayir",
+    "value": 2381741,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/langtr-330px-Flag_of_Algeria.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-suudi",
+    "label": "Suudi Arabistan",
+    "value": 2149690,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/langtr-330px-Flag_of_Saudi_Arabia.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-meksika",
+    "label": "Meksika",
+    "value": 1964375,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langtr-330px-Flag_of_Mexico.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-iran",
+    "label": "İran",
+    "value": 1648195,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/langtr-330px-Flag_of_Iran.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-misir",
+    "label": "Mısır",
+    "value": 1001450,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/langtr-330px-Flag_of_Egypt.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-ispanya",
+    "label": "İspanya",
+    "value": 505990,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/langtr-330px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-isvec",
+    "label": "İsveç",
+    "value": 450295,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/langtr-330px-Flag_of_Sweden.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-italya",
+    "label": "İtalya",
+    "value": 301340,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langtr-330px-Flag_of_Italy.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "alan-ingiltere",
+    "label": "Birleşik Krallık",
+    "value": 243610,
+    "unit": "km²",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langtr-330px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-gokdogan",
+    "label": "Gökdoğan (dalışta)",
+    "value": 389,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Falco_peregrinus_-_01.jpg/330px-Falco_peregrinus_-_01.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-cita",
+    "label": "Çita",
+    "value": 120,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TheCheethcat.jpg/330px-TheCheethcat.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-antilop",
+    "label": "Amerikan antilobu",
+    "value": 88,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Antilocapra_americana.jpg/330px-Antilocapra_americana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-aslan",
+    "label": "Aslan",
+    "value": 80,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/330px-Lion_waiting_in_Namibia.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-at",
+    "label": "At",
+    "value": 70,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nokota_Horses_cropped.jpg/330px-Nokota_Horses_cropped.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-zurafa",
+    "label": "Zürafa",
+    "value": 60,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Giraffe_standing.jpg/330px-Giraffe_standing.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-insan",
+    "label": "İnsan (en hızlı koşucu)",
+    "value": 45,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Usain_Bolt_-_240422_190142_%28cropped%29.jpg/330px-25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Usain_Bolt_-_240422_190142_%28cropped%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-fil",
+    "label": "Fil",
+    "value": 40,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/330px-African_Bush_Elephant.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-timsah",
+    "label": "Timsah",
+    "value": 17,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/China-Alligator.jpg/330px-China-Alligator.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "hiz-kaplumbaga",
+    "label": "Kaplumbağa",
+    "value": 0.3,
+    "unit": "km/sa",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Haeckel_Chelonia.jpg/330px-Haeckel_Chelonia.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-merkur",
+    "label": "Merkür",
+    "value": 58,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/330px-Mercury_in_true_color.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-venus",
+    "label": "Venüs",
+    "value": 108,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg/330px-PIA23791-Venus-RealAndEnhancedContrastViews-20200608_%28cropped%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-dunya",
+    "label": "Dünya",
+    "value": 150,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/330px-The_Earth_seen_from_Apollo_17.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-mars",
+    "label": "Mars",
+    "value": 228,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-jupiter",
+    "label": "Jüpiter",
+    "value": 778,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/330px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-saturn",
+    "label": "Satürn",
+    "value": 1434,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg/330px-Saturn_from_Cassini_Orbiter_%282004-10-06%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-uranus",
+    "label": "Uranüs",
+    "value": 2871,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Uranus_Voyager2_color_calibrated.png/330px-Uranus_Voyager2_color_calibrated.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "uzaklik-neptun",
+    "label": "Neptün",
+    "value": 4495,
+    "unit": "milyon km",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/330px-Neptune_Voyager2_color_calibrated.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-balina",
+    "label": "Yay başlı balina",
+    "value": 200,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bowhead_Whale_NOAA.jpg/330px-Bowhead_Whale_NOAA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-kaplumbaga",
+    "label": "Galapagos kaplumbağası",
+    "value": 150,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Galapagos_giant_tortoise_Geochelone_elephantopus.jpg/330px-Galapagos_giant_tortoise_Geochelone_elephantopus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-insan",
+    "label": "İnsan (dünya ortalaması)",
+    "value": 73,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dagestani_man_and_woman.jpg/330px-Dagestani_man_and_woman.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-fil",
+    "label": "Fil",
+    "value": 65,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/330px-African_Bush_Elephant.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-papagan",
+    "label": "Ara papağanı",
+    "value": 50,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Macaws_at_Jurong_Bird_Park_-Singapore-8.jpg/330px-Macaws_at_Jurong_Bird_Park_-Singapore-8.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-at",
+    "label": "At",
+    "value": 30,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Nokota_Horses_cropped.jpg/330px-Nokota_Horses_cropped.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-kedi",
+    "label": "Kedi",
+    "value": 15,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/330px-Cat_poster_1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-kopek",
+    "label": "Köpek",
+    "value": 12,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/330px-Collage_of_Nine_Dogs.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-tavsan",
+    "label": "Tavşan",
+    "value": 9,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arctic_Hare_1.jpg/330px-Arctic_Hare_1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "omur-fare",
+    "label": "Fare",
+    "value": 2,
+    "unit": "yıl",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Apodemus_sylvaticus_bosmuis.jpg/330px-Apodemus_sylvaticus_bosmuis.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-mavibalina",
+    "label": "Mavi balina",
+    "value": 150000,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-fil",
+    "label": "Afrika fili",
+    "value": 6000,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg/330px-African_Elephant_%28Loxodonta_africana%29_male_%2817289351322%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-gergedan",
+    "label": "Beyaz gergedan",
+    "value": 2300,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rhino_%28234581759%29.jpeg/330px-Rhino_%28234581759%29.jpeg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-suaygiri",
+    "label": "Su aygırı",
+    "value": 1500,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hippopotamus_-_04.jpg/330px-Hippopotamus_-_04.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-ayi",
+    "label": "Boz ayı",
+    "value": 400,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/330px-2010-kodiak-bear-1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-aslan",
+    "label": "Aslan",
+    "value": 190,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/330px-Lion_waiting_in_Namibia.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-insan",
+    "label": "İnsan (ortalama)",
+    "value": 62,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dagestani_man_and_woman.jpg/330px-Dagestani_man_and_woman.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-kurt",
+    "label": "Kurt",
+    "value": 40,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Canis_lupus.jpg/330px-Canis_lupus.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-kedi",
+    "label": "Kedi",
+    "value": 4,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/330px-Cat_poster_1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "agirlik-tavsan",
+    "label": "Tavşan",
+    "value": 2,
+    "unit": "kg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arctic_Hare_1.jpg/330px-Arctic_Hare_1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-tungsten",
+    "label": "Tungsten",
+    "value": 3422,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg/330px-Wolfram_evaporated_crystals_and_1cm3_cube.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-demir",
+    "label": "Demir",
+    "value": 1538,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iron_electrolytic_and_1cm3_cube.jpg/330px-Iron_electrolytic_and_1cm3_cube.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-altin",
+    "label": "Altın",
+    "value": 1064,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Au%2C79.jpg/330px-Au%2C79.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-aluminyum",
+    "label": "Alüminyum",
+    "value": 660,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Al%2C13.jpg/330px-Al%2C13.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-cinko",
+    "label": "Çinko",
+    "value": 420,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zn%2C30.jpg/330px-Zn%2C30.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-kursun",
+    "label": "Kurşun",
+    "value": 327,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lead_electrolytic_and_1cm3_cube.jpg/330px-Lead_electrolytic_and_1cm3_cube.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-kalay",
+    "label": "Kalay",
+    "value": 232,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sn%2C50.jpg/330px-Sn%2C50.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "erime-su",
+    "label": "Buz (su)",
+    "value": 0,
+    "unit": "°C",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/SnowflakesWilsonBentley.jpg/330px-SnowflakesWilsonBentley.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

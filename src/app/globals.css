@@ -1,0 +1,335 @@
+@import "tailwindcss";
+
+:root {
+  --background: #121212;
+  --key-absent: #27272a;
+  --background-alt: #18181b;
+  --card: #27272a;
+  --card-hover: #3f3f46;
+  --text-main: #f4f4f5;
+  --text-muted: #a1a1aa;
+  --border-subtle: #3f3f46;
+  --accent-green: #22c55e;
+  --accent-yellow: #eab308;
+  --accent-red: #ef4444;
+}
+
+:root[data-theme="light"] {
+  --background: #ffffff;
+  --key-absent: #27272a;
+  --background-alt: #f4f4f5;
+  --card: #f4f4f5;
+  --card-hover: #e4e4e7;
+  --text-main: #18181b;
+  --text-muted: #71717a;
+  --border-subtle: #e4e4e7;
+  --accent-green: #16a34a;
+  --accent-yellow: #ca8a04;
+  --accent-red: #dc2626;
+}
+
+/* ------------------------------------------------------------------
+   GÖRÜNÜM (skin) — "pop"
+   ------------------------------------------------------------------
+   Pop, bileşenlere dokunmadan tamamen bu blokta yaşıyor: tüm arayüz zaten
+   yukarıdaki CSS değişkenlerinden besleniyor, burada sadece değerler ve birkaç
+   yapısal kural (kalın kontur, sert gölge, tipografi) değişiyor.
+   Geri dönüş = data-skin'i "klasik" yapmak; hiçbir bileşen kodu değişmediği için
+   klasik görünüm bit birebir eskisi gibi kalır.
+
+   Sıra önemli: :root[data-skin="pop"] ile :root[data-theme="light"] aynı
+   özgüllükte (0,2,0), bu yüzden pop blokları SONRA geliyor ve kazanıyor.
+   Pop'un koyu varyantı ekstra bir attribute ile (0,3,0) onu da geçiyor. */
+
+:root[data-skin="pop"] {
+  --background: #f4f1e8;
+  --background-alt: #ffffff;
+  --card: #ffffff;
+  --card-hover: #efe9dc;
+  --text-main: #141414;
+  --text-muted: #6a665c;
+  --border-subtle: #141414;
+  /* Dolgular: koddaki 61 `bg-accent-*` kullanımının neredeyse hepsi `text-black`
+     ile eşleşmiş durumda, yani canlı zemin + siyah yazı zaten hazırdı. */
+  --accent-green: #8ede6b;
+  --accent-yellow: #ffd93d;
+  --accent-red: #ff8f8f;
+  /* Mürekkep: aynı renkler METİN olarak açık zeminde okunmuyor; text-accent-*
+     kullanımları aşağıda bunlara yönlendiriliyor. */
+  --ink-green: #1d7a33;
+  --ink-yellow: #8a6a00;
+  --ink-red: #c33c2e;
+  --outline: #141414;
+  --muted-fill: #d8d3c4;
+  --key-absent: #d8d3c4;
+}
+
+:root[data-skin="pop"][data-theme="dark"] {
+  --background: #17161a;
+  --background-alt: #201f24;
+  --card: #26242b;
+  --card-hover: #322f38;
+  --text-main: #f7f4ec;
+  --text-muted: #a5a099;
+  --border-subtle: #f7f4ec;
+  --accent-green: #8ede6b;
+  --accent-yellow: #ffd93d;
+  --accent-red: #ff8f8f;
+  /* Koyu zeminde canlı renkler metin olarak zaten okunuyor. */
+  --ink-green: #8ede6b;
+  --ink-yellow: #ffd93d;
+  --ink-red: #ff8f8f;
+  --outline: #f7f4ec;
+  --muted-fill: #3a3741;
+  --key-absent: #201f24;
+}
+
+[data-skin="pop"] {
+  --hard-shadow: 4px 4px 0 0 var(--outline);
+  --hard-shadow-sm: 2px 2px 0 0 var(--outline);
+}
+
+[data-skin="pop"] body {
+  font-family: var(--font-space-grotesk), var(--font-geist-sans), sans-serif;
+}
+
+/* Metin olarak kullanılan vurgu renkleri mürekkebe yönlendiriliyor.
+   Özgüllük (0,2,0) > Tailwind'in tek sınıfı (0,1,0), bu yüzden kazanıyor. */
+[data-skin="pop"] .text-accent-green {
+  color: var(--ink-green);
+}
+[data-skin="pop"] .text-accent-yellow {
+  color: var(--ink-yellow);
+}
+[data-skin="pop"] .text-accent-red {
+  color: var(--ink-red);
+}
+
+/* Koda sabitlenmiş koyu griler (dağılım çubuğu, Şarkısal ilerleme çubuğu) açık
+   zeminde okunmuyor — tek yerden nötr dolguya çevriliyor.
+   Klavyenin "yok" harfi BURADA DEĞİL: onun doğru tonu görünüme göre değişiyor
+   ve kendi token'ı var (--key-absent). Buraya dahilken Pop'un koyu varyantında
+   varsayılan tuşla aynı renge düşüyordu. */
+[data-skin="pop"] .bg-zinc-600 {
+  background-color: var(--muted-fill);
+}
+
+/* Pop'un imzası: kalın kontur + blur'suz sert gölge.
+   Sadece TAM çerçevesi olan öğeleri hedefliyor (.border / .border-2); border-t
+   gibi tek kenarlıklara `border-width` yazmak yok yere dört kenar çizerdi. */
+[data-skin="pop"] .border {
+  border-width: 2.5px;
+}
+[data-skin="pop"] .border-2 {
+  border-width: 3px;
+}
+[data-skin="pop"] .bg-card.border,
+[data-skin="pop"] .bg-background-alt.border {
+  box-shadow: var(--hard-shadow);
+}
+
+/* Birincil butonlar (canlı dolgu + siyah yazı) kontur ve sert gölge alıyor.
+   Sadece etkileşimli öğeler hedefleniyor: aynı dolgu sınıfı kutularda, rozetlerde
+   ve ilerleme çubuğunda da kullanılıyor, oralara gölge yanlış olurdu. */
+[data-skin="pop"] button.bg-accent-green,
+[data-skin="pop"] a.bg-accent-green,
+[data-skin="pop"] button.bg-accent-red {
+  border: 2.5px solid var(--outline);
+  box-shadow: var(--hard-shadow-sm);
+}
+
+/* Klavye tuşları ve Şarkısal'ın aşama kutuları: açık zeminde konturuz halde
+   arka plandan ayırt edilemiyorlardı. */
+[data-skin="pop"] .key-cap,
+[data-skin="pop"] .segment {
+  border: 2px solid var(--outline);
+}
+[data-skin="pop"] .key-cap {
+  box-shadow: var(--hard-shadow-sm);
+}
+/**
+ * Elenen harf: SADECE dolguyu koyulaştırmak yetmiyordu. Ölçüldü — koyu temada
+ * elenen tuş (#201f24) ile varsayılan tuş (#322f38) arasındaki kontrast 1,26:1;
+ * teknik olarak farklı ama gözle seçilmiyor, kullanıcı iki kez bildirdi.
+ *
+ * Pop'un en gürültülü öğeleri kontur ve sert gölge. Elenen tuş ikisini de
+ * kaybedip soluyor: "basılabilir" görünmekten çıkıp zeminle bütünleşiyor.
+ * Tek bir renk farkına değil, ÜÇ sinyale birden dayanıyor (dolgu + kontur/gölge
+ * yokluğu + solukluk), o yüzden her iki temada da ilk bakışta ayrılıyor.
+ */
+[data-skin="pop"] .key-cap.bg-key-absent {
+  box-shadow: none;
+  border-color: transparent;
+  opacity: 0.5;
+}
+
+/* Hub kartları: her oyun kendi renginde. --game-color'ı GameCard basıyor.
+   Kart zemini her iki temada da CANLI olduğu için üzerindeki yazı her zaman
+   koyu — Pop'un koyu varyantında krem metin okunmazdı. */
+[data-skin="pop"] .game-surface {
+  background: var(--game-color);
+}
+[data-skin="pop"] .game-surface .text-text-main,
+[data-skin="pop"] .game-surface [class*="text-accent-"] {
+  color: #141414;
+}
+/* Saydamlık canlı kart üstünde krem zemindekinden çok daha zayıf kalıyor:
+   Karesel'in kesikli "?" kutusu turuncu kartta neredeyse görünmüyordu
+   (kullanıcı bildirdi). Değerler koyulaştırıldı — hâlâ ana metinden soluk,
+   yani "ikincil" anlamı duruyor, ama okunuyor. */
+[data-skin="pop"] .game-surface .text-text-muted {
+  color: #141414cc;
+}
+/* Metin gibi, NÖTR DOLGULAR da temaya göre değil her zaman koyu olmalı.
+   Önizlemeler tema token'ı kullanıyor (Kelimesel'in boş kareleri bg-background,
+   Harf Peteği'nin altıgenleri bg-card-hover, Haritasal'ın silueti
+   fill-text-main). Açık temada bunlar kreme düşüyor ve sarı/yeşil/pembe kartın
+   üstünde kayboluyordu — kullanıcı bildirdi, koyu temada sorun görünmüyordu
+   çünkü orada token zaten koyu. Kart zemini HER İKİ temada da canlı olduğu için
+   doğru davranış sabit koyu mürekkep. */
+[data-skin="pop"] .game-surface .bg-background,
+[data-skin="pop"] .game-surface .bg-card-hover {
+  background-color: #141414;
+}
+[data-skin="pop"] .game-surface .fill-text-main {
+  fill: #141414;
+}
+[data-skin="pop"] .game-surface .border-border-subtle {
+  border-color: #141414;
+}
+/* Karesel'in film karelerindeki çizimler `currentColor` kullanıyor ve üstteki
+   `text-text-muted`'ı miras alıyor. Yukarıdaki iki kural (kutu koyu dolgu +
+   ikincil yazı koyu) birleşince koyu kutuda koyu çizgi kaldı ve sahneler düz
+   siyah kutuya döndü — kullanıcı bildirdi. Çizgiler kartın KENDİ rengine
+   boyanıyor: koyu kutuda her zaman kontrast ediyor ve karta ait duruyor. */
+[data-skin="pop"] .game-surface .onizleme-sahne {
+  color: var(--game-color);
+}
+/* Kelimesel'in kartı SARI ve önizlemedeki "harf var ama yeri yanlış" karesi de
+   sarı — kendi zemininde kayboluyordu, 8 kareden 2'si hiç görünmüyordu
+   (kullanıcı bildirdi). Kartın rengini değiştirmek yerine karelere kontur:
+   oyunun renk dili korunuyor ve aynı çakışma başka bir kartta çıkarsa da
+   çözülmüş oluyor. Kontur `inset box-shadow` — border kutu boyutunu
+   büyütmeden aynı işi yapıyor. */
+[data-skin="pop"] .game-surface .onizleme-kare {
+  box-shadow: inset 0 0 0 2px #141414;
+}
+/* Kareler oyunun GERÇEK renklerini kullanır, kurcalanmaz: "yeri yanlış" karesi
+   oyunda sarıdır, önizlemede başka bir tonda göstermek thumbnail'i yalancı
+   yapar. Kart rengiyle çakışma bu yüzden KARTIN tonu koyulaştırılarak çözüldü
+   (bkz. GameCard.tsx'teki GAME_COLORS.kelimesel). */
+[data-skin="pop"] .game-surface:hover {
+  background: var(--game-color);
+}
+[data-skin="pop"] .game-done {
+  background: #141414;
+  color: var(--game-color);
+}
+
+/* Başlıklar iri ve büyük harf. lang="tr" sayesinde text-transform doğru
+   Türkçe büyük harfi üretiyor (Kelimesel -> KELİMESEL, i -> İ). */
+[data-skin="pop"] h1 {
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-background-alt: var(--background-alt);
+  --color-card: var(--card);
+  --color-card-hover: var(--card-hover);
+  --color-key-absent: var(--key-absent);
+  --color-text-main: var(--text-main);
+  --color-text-muted: var(--text-muted);
+  --color-border-subtle: var(--border-subtle);
+  --color-accent-green: var(--accent-green);
+  --color-accent-yellow: var(--accent-yellow);
+  --color-accent-red: var(--accent-red);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  color-scheme: dark;
+}
+
+html[data-theme="light"] {
+  color-scheme: light;
+}
+
+body {
+  background: var(--background);
+  color: var(--text-main);
+}
+
+/**
+ * Mobilde hızlı oynarken yaşanan dokunma sorunları.
+ *
+ * touch-action: manipulation — ÇİFT DOKUNARAK yakınlaştırmayı bu öğeler üzerinde
+ * kapatır. Klavyeye/harf kutularına hızlı art arda basarken tarayıcı bunu "çift
+ * dokunma" sanıp sayfayı zumluyordu; ayrıca çift dokunmayı beklemek için her tıklamaya
+ * ~300ms gecikme koyuyordu. Bu ikisini de çözer. İKİ PARMAKLA yakınlaştırma (pinch)
+ * ETKİLENMEZ — bilerek: onu kapatmak görme güçlüğü çekenlerin sayfayı büyütmesini
+ * engeller (WCAG 1.4.4) ve zaten iOS Safari 10'dan beri user-scalable=no'yu yok sayıyor,
+ * yani iPhone'da hiçbir işe yaramaz.
+ *
+ * user-select: none — uzun basınca çıkan metin seçme/kopyala balonunu engeller.
+ * -webkit-tap-highlight-color — dokununca beliren gri kutuyu kaldırır; butonların
+ * kendi :active/hover stilleri zaten geri bildirim veriyor.
+ */
+button,
+[role="button"] {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Renksel'in kaydırıcıları: zemin canlı bir renk geçişi olduğu için tarayıcının
+   varsayılan yolu (track) o geçişi örtüyordu — yol saydam bırakılıp arka plan
+   input'un kendisine veriliyor. Tutamak iki temada da görünsün diye beyaz dolgu
+   + koyu kontur; tek renk kullanılsaydı kendi rengine denk gelen bölgede
+   kayboluyordu. */
+.renk-kaydirici::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 9999px;
+  background: #fff;
+  border: 2px solid #1a1a1a;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.4);
+  cursor: pointer;
+}
+.renk-kaydirici::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 9999px;
+  background: #fff;
+  border: 2px solid #1a1a1a;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.4);
+  cursor: pointer;
+}
+.renk-kaydirici::-moz-range-track {
+  background: transparent;
+}
+
+/* --- Hub'daki büyük logo ---
+   Logo, ızgaranın ilk kartıyla aynı genişlikte durmalı (kullanıcı isteği).
+   Punto SABİT verilebiliyor çünkü kap `lg`de max-w-5xl'e sabitleniyor ve kart
+   genişliği 1024px ve üstünde hep 320px kalıyor.
+
+   PUNTO GÖRÜNÜME GÖRE FARKLI, çünkü iki görünüm farklı yazı tipi kullanıyor:
+   Pop'ta Space Grotesk, Klasik'te Geist. Tek punto verildiğinde Klasik'te
+   "Günsel" 16px taşıyordu (ölçüldü). Bileşen görünümden habersiz kalsın diye
+   fark burada, CSS'te kapatılıyor. */
+@media (min-width: 1024px) {
+  .logo-buyuk {
+    font-size: 103px;
+    line-height: 1;
+  }
+  [data-skin="klasik"] .logo-buyuk {
+    font-size: 98px;
+  }
+}

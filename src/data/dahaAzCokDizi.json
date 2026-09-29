@@ -1,0 +1,800 @@
+[
+  {
+    "id": "dizi-1396",
+    "label": "Breaking Bad",
+    "value": 8.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg"
+  },
+  {
+    "id": "dizi-1399",
+    "label": "Game of Thrones",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg"
+  },
+  {
+    "id": "dizi-1398",
+    "label": "The Sopranos",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg"
+  },
+  {
+    "id": "dizi-1438",
+    "label": "The Wire",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/4lbclFySvugI51fwsyxBTOm4DqK.jpg"
+  },
+  {
+    "id": "dizi-87108",
+    "label": "Chernobyl",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vDwYRtmfBgM9zq4o0xbeUuVo3DL.jpg"
+  },
+  {
+    "id": "dizi-4613",
+    "label": "Kardeşler Takımı",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/pGzV187ogXzgJrvPRy2YPi29ofH.jpg"
+  },
+  {
+    "id": "dizi-19885",
+    "label": "Sherlock",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg"
+  },
+  {
+    "id": "dizi-70523",
+    "label": "Dark",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zAqWleNycZ86klkXJVY1OPpTdyA.jpg"
+  },
+  {
+    "id": "dizi-66732",
+    "label": "Stranger Things",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hjVNQA2a12OxkpDEOQTBMbKVZ1K.jpg"
+  },
+  {
+    "id": "dizi-2316",
+    "label": "‎Ofis‎",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/AcsDnYMUKwYepl75Uc1Hb4aKvDC.jpg"
+  },
+  {
+    "id": "dizi-1668",
+    "label": "Sıkı Dostlar",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg"
+  },
+  {
+    "id": "dizi-1400",
+    "label": "Seinfeld",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/aCw8ONfyz3AhngVQa1E2Ss4KSUQ.jpg"
+  },
+  {
+    "id": "dizi-1100",
+    "label": "How I Met Your Mother",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/b34jPzmB0wZy7EjUZoleXOl2RRI.jpg"
+  },
+  {
+    "id": "dizi-1418",
+    "label": "The Big Bang Theory",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/euKFiO5M125rpngFRBbSW83beeI.jpg"
+  },
+  {
+    "id": "dizi-60059",
+    "label": "Better Call Saul",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg"
+  },
+  {
+    "id": "dizi-46648",
+    "label": "True Detective",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dC7jkj2g1aU8sxKqM6D4g44xA6w.jpg"
+  },
+  {
+    "id": "dizi-62560",
+    "label": "Mr. Robot",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg"
+  },
+  {
+    "id": "dizi-60574",
+    "label": "Peaky Blinders",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/5aHpODCpUa0kGTPXtiYC0moIPhT.jpg"
+  },
+  {
+    "id": "dizi-63351",
+    "label": "Narcos",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg"
+  },
+  {
+    "id": "dizi-71446",
+    "label": "La casa de papel",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/z01Dc0Ly2GmCpLe6Scx4d3dPP1S.jpg"
+  },
+  {
+    "id": "dizi-65494",
+    "label": "The Crown",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1M876KPjulVwppEpldhdc8V4o68.jpg"
+  },
+  {
+    "id": "dizi-82856",
+    "label": "The Mandalorian",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg"
+  },
+  {
+    "id": "dizi-94997",
+    "label": "House of the Dragon",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/6YM292PX2gSIBk16hufmlGT3iQW.jpg"
+  },
+  {
+    "id": "dizi-100088",
+    "label": "The Last of Us",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/cdbDsn2hqLL7x804GixzPP8AiBE.jpg"
+  },
+  {
+    "id": "dizi-93405",
+    "label": "Squid Game",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/yACIAqAkSLkX4coHafpyLWAtQjw.jpg"
+  },
+  {
+    "id": "dizi-119051",
+    "label": "Wednesday",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9PFonBhy4cQy7Jz20NpMygczOkv.jpg"
+  },
+  {
+    "id": "dizi-71912",
+    "label": "The Witcher",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg"
+  },
+  {
+    "id": "dizi-42009",
+    "label": "Black Mirror",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg"
+  },
+  {
+    "id": "dizi-60625",
+    "label": "Rick and Morty",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
+  {
+    "id": "dizi-246",
+    "label": "Avatar: Son Havabükücü",
+    "value": 8.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/owWlw5ZfWTnpGPOyszgLJQcDNgP.jpg"
+  },
+  {
+    "id": "dizi-1429",
+    "label": "Attack on Titan",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qlbcGr0EYKRICD0MTrIwnIztQna.jpg"
+  },
+  {
+    "id": "dizi-13916",
+    "label": "Ölüm Defteri",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/chnG4pYo89weaBjXHJWvW68E35B.jpg"
+  },
+  {
+    "id": "dizi-4607",
+    "label": "Lost",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg"
+  },
+  {
+    "id": "dizi-2288",
+    "label": "Prison Break",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/wnmNPaLvhnMeOqnWlhNkYCZxtda.jpg"
+  },
+  {
+    "id": "dizi-1405",
+    "label": "Dexter",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg"
+  },
+  {
+    "id": "dizi-1408",
+    "label": "House, M.D.",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg"
+  },
+  {
+    "id": "dizi-1416",
+    "label": "Grey's Anatomy",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg"
+  },
+  {
+    "id": "dizi-1402",
+    "label": "The Walking Dead",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg"
+  },
+  {
+    "id": "dizi-44217",
+    "label": "Vikingler",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qkCh6cFSHikSIFTWUQyJ2qJzqsy.jpg"
+  },
+  {
+    "id": "dizi-82596",
+    "label": "Emily in Paris",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/c0bkO416OU7YGdOFktk45H8REgL.jpg"
+  },
+  {
+    "id": "dizi-60622",
+    "label": "Fargo",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/a3VW6khsyUVKrG0GBCWFG3NzWPX.jpg"
+  },
+  {
+    "id": "dizi-63247",
+    "label": "Westworld",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ALlSU9du9iRiKIIoY1sREGNqQ5.jpg"
+  },
+  {
+    "id": "dizi-76479",
+    "label": "The Boys",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
+  },
+  {
+    "id": "dizi-76331",
+    "label": "Succession",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/z0XiwdrCQ9yVIr4O0pxzaAYRxdW.jpg"
+  },
+  {
+    "id": "dizi-97546",
+    "label": "Ted Lasso",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
+  },
+  {
+    "id": "dizi-136315",
+    "label": "The Bear",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+  },
+  {
+    "id": "dizi-95396",
+    "label": "Severance",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
+  },
+  {
+    "id": "dizi-73586",
+    "label": "Yellowstone",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg"
+  },
+  {
+    "id": "dizi-69740",
+    "label": "Ozark",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/pCGyPVrI9Fzw6rE1Pvi4BIXF6ET.jpg"
+  },
+  {
+    "id": "dizi-67744",
+    "label": "MINDHUNTER",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/fbKE87mojpIETWepSbD5Qt741fp.jpg"
+  },
+  {
+    "id": "dizi-72844",
+    "label": "The Haunting: Tepedeki Ev",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/j39gJwCNy06YjFgQVRgXpzWYv60.jpg"
+  },
+  {
+    "id": "dizi-87739",
+    "label": "The Queen's Gambit",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg"
+  },
+  {
+    "id": "dizi-79788",
+    "label": "Watchmen",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg"
+  },
+  {
+    "id": "dizi-84958",
+    "label": "Loki",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rX1wQMTKFqF0gvZyS0DDQqgnQPB.jpg"
+  },
+  {
+    "id": "dizi-85271",
+    "label": "WandaVision",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ijWWwINc8h71NQ8j1LTJMFSj5wr.jpg"
+  },
+  {
+    "id": "dizi-83867",
+    "label": "Andor",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/n649NH6UQv3etlgc0pRgzs1ual0.jpg"
+  },
+  {
+    "id": "dizi-92830",
+    "label": "Obi-Wan Kenobi",
+    "value": 7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qJRB789ceLryrLvOKrZqLKr2CGf.jpg"
+  },
+  {
+    "id": "dizi-94605",
+    "label": "Arcane",
+    "value": 8.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"
+  },
+  {
+    "id": "dizi-37854",
+    "label": "One Piece",
+    "value": 8.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg"
+  },
+  {
+    "id": "dizi-46260",
+    "label": "Naruto",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg"
+  },
+  {
+    "id": "dizi-31911",
+    "label": "Fullmetal Alchemist: Brotherhood",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg"
+  },
+  {
+    "id": "dizi-46298",
+    "label": "Hunter x Hunter",
+    "value": 8.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9WxfAQquTun9ATkV6iAeFHMkqxv.jpg"
+  },
+  {
+    "id": "dizi-85937",
+    "label": "İblis Keser",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/mszs7gapSnF7rw2xrg4WLQLVzZ9.jpg"
+  },
+  {
+    "id": "dizi-95479",
+    "label": "Jujutsu Kaisen",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg"
+  },
+  {
+    "id": "dizi-65930",
+    "label": "Kahramanlık Akademim",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/dmUuNVWAJumRkDNuauFaLSvga00.jpg"
+  },
+  {
+    "id": "dizi-30991",
+    "label": "Cowboy Bebop",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg"
+  },
+  {
+    "id": "dizi-890",
+    "label": "Neon Genesis Evangelion",
+    "value": 8.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/AhtWPHqIT1cWdrKTZVDMZD4Ca4F.jpg"
+  },
+  {
+    "id": "dizi-456",
+    "label": "Simpsonlar",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg"
+  },
+  {
+    "id": "dizi-1434",
+    "label": "Family Guy",
+    "value": 7.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/ad75MS8xP2EmkYXy4101ljmpIfn.jpg"
+  },
+  {
+    "id": "dizi-2190",
+    "label": "South Park",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
+  },
+  {
+    "id": "dizi-615",
+    "label": "Futurama",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg"
+  },
+  {
+    "id": "dizi-61222",
+    "label": "BoJack Horseman",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg"
+  },
+  {
+    "id": "dizi-18347",
+    "label": "Community",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3KUjDt8XY7w2Ku70UE0SECmv1zP.jpg"
+  },
+  {
+    "id": "dizi-8592",
+    "label": "Parks and Recreation",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/lOvrFaNf1qewF1M00scWcDRnJu9.jpg"
+  },
+  {
+    "id": "dizi-48891",
+    "label": "Brooklyn Nine-Nine",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/mpjlDzVjp7oyHUe2LaF9ltKe6f1.jpg"
+  },
+  {
+    "id": "dizi-1421",
+    "label": "Modern Family",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg"
+  },
+  {
+    "id": "dizi-2691",
+    "label": "Two and a Half Men",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/xgfjxyV3g1S68opzuvG6G87muDp.jpg"
+  },
+  {
+    "id": "dizi-4087",
+    "label": "Gizli Dosyalar",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg"
+  },
+  {
+    "id": "dizi-1920",
+    "label": "İkiz Tepeler",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/lA9CNSdo50iQPZ8A2fyVpMvJZAf.jpg"
+  },
+  {
+    "id": "dizi-95",
+    "label": "Buffy the Vampire Slayer",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/y7fVZkyheCEQHDUEHwNmYENGfT2.jpg"
+  },
+  {
+    "id": "dizi-1622",
+    "label": "Supernatural",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
+  },
+  {
+    "id": "dizi-1409",
+    "label": "Sons of Anarchy",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/kiy8BHtIHAslh81rvFcZ4wbNGdY.jpg"
+  },
+  {
+    "id": "dizi-1621",
+    "label": "Boardwalk Empire",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/zyHLWVmqS8m7bxABJjcDFMYLdF8.jpg"
+  },
+  {
+    "id": "dizi-1891",
+    "label": "Roma",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg"
+  },
+  {
+    "id": "dizi-46296",
+    "label": "Spartacus",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg"
+  },
+  {
+    "id": "dizi-69478",
+    "label": "The Handmaid's Tale",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/eGUT7j3n3rn5yGihlCgwUnD70HV.jpg"
+  },
+  {
+    "id": "dizi-1407",
+    "label": "Homeland",
+    "value": 7.6,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg"
+  },
+  {
+    "id": "dizi-1973",
+    "label": "24",
+    "value": 7.8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg"
+  },
+  {
+    "id": "dizi-37680",
+    "label": "Suits",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/vQiryp6LioFxQThywxbC6TuoDjy.jpg"
+  },
+  {
+    "id": "dizi-67070",
+    "label": "Fleabag",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/27vEYsRKa3eAniwmoccOoluEXQ1.jpg"
+  },
+  {
+    "id": "dizi-72750",
+    "label": "Killing Eve",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/4wKhTVw8aGq5AZMa0Q1spERdi7n.jpg"
+  },
+  {
+    "id": "dizi-75006",
+    "label": "The Umbrella Academy",
+    "value": 8.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg"
+  },
+  {
+    "id": "dizi-63174",
+    "label": "Lucifer",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/cLz75DTxXPPR814YHZ0XhiQuEI2.jpg"
+  },
+  {
+    "id": "dizi-69050",
+    "label": "Riverdale",
+    "value": 8.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/d8mmn9thQ5dBk2qbv6BCqGUXWK3.jpg"
+  },
+  {
+    "id": "dizi-66788",
+    "label": "Ölmek İçin On Üç Sebep",
+    "value": 7.5,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/edtwCUiQPLMVEnyO9VGek50HXbm.jpg"
+  },
+  {
+    "id": "dizi-78191",
+    "label": "You",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/oANi0vEE92nuijiZQgPZ88FSxqQ.jpg"
+  },
+  {
+    "id": "dizi-91239",
+    "label": "Bridgerton",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/uXTg565ahu9RwonCX1V2Hex1NU6.jpg"
+  },
+  {
+    "id": "dizi-33907",
+    "label": "Downton Abbey",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/cf9vkwFmwvdzBlcpAYEVQfsKoTp.jpg"
+  },
+  {
+    "id": "dizi-4586",
+    "label": "Gilmore Girls",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/gwtzCwU2wdLLf8oejQu2TINiWfQ.jpg"
+  },
+  {
+    "id": "dizi-693",
+    "label": "Desperate Housewives",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/sywYmV9c9Vj2U7ocqNyfDt2pz3r.jpg"
+  },
+  {
+    "id": "dizi-105",
+    "label": "Sex and the City",
+    "value": 7.4,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/jfLp8gTfdi9d8onEFJ60kp1Bl1e.jpg"
+  },
+  {
+    "id": "dizi-1395",
+    "label": "Gossip Girl",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/mRvSUuU1VQQkZZ578jKJpcUCuL8.jpg"
+  },
+  {
+    "id": "dizi-76669",
+    "label": "Élite",
+    "value": 8,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/c07WqB99Igco0rua794q9k9QJYm.jpg"
+  },
+  {
+    "id": "dizi-96677",
+    "label": "Lupin",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/sOUWRai0215iUSMackrZx3Y1j05.jpg"
+  },
+  {
+    "id": "dizi-70593",
+    "label": "Kingdom",
+    "value": 8.2,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/qsImgmSXLFpKVyqwjxlG5H33iWZ.jpg"
+  },
+  {
+    "id": "dizi-110316",
+    "label": "Alice in Borderland",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/i0i7kGDrArtM1sCd8niZDC7iboV.jpg"
+  },
+  {
+    "id": "dizi-99966",
+    "label": "All of Us Are Dead",
+    "value": 8.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/d9yefq8dNke4UbuqStBtUcO9TxD.jpg"
+  },
+  {
+    "id": "dizi-106651",
+    "label": "Hellbound",
+    "value": 7.3,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/sgTu75c5PJsRHDMSna0ha8bhYWn.jpg"
+  },
+  {
+    "id": "dizi-34899",
+    "label": "Muhteşem Yüzyıl",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/kryRPZTkCxtIc1bGMjIQgblnPe0.jpg"
+  },
+  {
+    "id": "dizi-4556",
+    "label": "Scrubs",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/w7ri7byEYLdciSZOwWHj6TUAX7j.jpg"
+  },
+  {
+    "id": "dizi-66017",
+    "label": "Diriliş: Ertuğrul",
+    "value": 7.9,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/a6GZGeyWwwtfxeUqPKIYkRMOAUP.jpg"
+  },
+  {
+    "id": "dizi-40417",
+    "label": "Leyla ile Mecnun",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/3jPLJJXbFabb29mOxZOK0xctcy6.jpg"
+  },
+  {
+    "id": "dizi-112745",
+    "label": "Bir Başkadır",
+    "value": 7.7,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/9MzukREEyaCqW197buBrJr2LcTI.jpg"
+  },
+  {
+    "id": "dizi-77994",
+    "label": "Şahsiyet",
+    "value": 8.1,
+    "unit": "puan",
+    "imageUrl": "https://image.tmdb.org/t/p/w500/nC68Pf7jnddVcZsPuzAnYUHJqff.jpg"
+  }
+]

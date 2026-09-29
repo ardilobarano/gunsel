@@ -1,0 +1,147 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+// Auth.js (@auth/prisma-adapter) standart şeması — alan adları adapter'ın beklediği
+// birebir isimler, değiştirilmemeli. adapter set olduğunda Auth.js varsayılan olarak
+// "database" oturum stratejisini kullanıyor (Session tablosu), tam istediğimiz gibi:
+// Google sadece kimlik doğrulama, hesap kaydı bizim DB'mizde.
+
+model User {
+  id            String    @id @default(cuid())
+  name          String?
+  email         String?   @unique
+  emailVerified DateTime?
+  image         String?
+  accounts      Account[]
+  sessions      Session[]
+  customPuzzles CustomPuzzle[]
+  feedbacks     Feedback[]
+  dailyResults  DailyResult[]
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+// Özel Kelimesel bulmacası: giriş yapmış kullanıcı bir kelime dizisi + ayar
+// oluşturuyor, paylaşılabilir bir shareCode alıyor. Oynamak için giriş gerekmiyor —
+// oyuncunun ilerlemesi (hangi kelimede, kaç deneme) DB'de değil, mevcut
+// storage.ts + imzalı attemptsToken deseniyle yine localStorage'da tutuluyor.
+model CustomPuzzle {
+  id                String             @id @default(cuid())
+  shareCode         String             @unique
+  creatorId         String
+  creator           User               @relation(fields: [creatorId], references: [id], onDelete: Cascade)
+  maxGuesses        Int
+  timeLimitSeconds  Int?
+  dictionaryEnabled Boolean            @default(true)
+  mode              String             @default("normal")
+  createdAt         DateTime           @default(now())
+  words             CustomPuzzleWord[]
+}
+
+model CustomPuzzleWord {
+  id         String       @id @default(cuid())
+  puzzleId   String
+  puzzle     CustomPuzzle @relation(fields: [puzzleId], references: [id], onDelete: Cascade)
+  orderIndex Int
+  word       String
+
+  @@unique([puzzleId, orderIndex])
+}
+
+/**
+ * Bir oyuncunun bir gün + bir oyundaki sonucu.
+ *
+ * İKİ İŞİ VAR:
+ * 1) userId NULL satırlar: Kelimesel'in sonuç ekranındaki "tüm oyuncuların
+ *    dağılımı" grafiği için anonim toplam (eskiden tek işi buydu).
+ * 2) userId DOLU satırlar: giriş yapmış oyuncunun kalıcı geçmişi. İstatistikler
+ *    artık cihaza değil hesaba bağlı — localStorage temizlenince ya da telefon
+ *    değişince kaybolmuyor.
+ *
+ * GÜVEN: source alanı satırın nereden geldiğini söylüyor.
+ * - "server": oyunun sonucu SUNUCUDA belirlendiği an yazıldı (Kelimesel, Şarkısal,
+ *   Karesel, Daha Az/Çok — hepsinin tahmini zaten /guess'ten geçiyor). İstemciye
+ *   hiç sorulmuyor, dolayısıyla uydurulamaz.
+ * - "client": istemcinin bildirdiği. Sadece iki durumda: Harf Peteği (sunucu
+ *   tarafı yok, kelime doğrulaması tarayıcıda) ve ilk girişte localStorage'daki
+ *   eski geçmişin bir kereye mahsus içe aktarılması.
+ * İleride sıralama tablosu eklenirse "client" satırlar dışarıda bırakılabilir.
+ */
+model DailyResult {
+  id         String   @id @default(cuid())
+  userId     String?
+  user       User?    @relation(fields: [userId], references: [id], onDelete: Cascade)
+  gameId     String
+  dateKey    String
+  status     String
+  guessCount Int?
+  /** Tahmin/kare/kelime geçmişi + açığa çıkan cevap — cihazlar arası birebir aynı
+   *  sonuç ekranı göstermek için. Sadece userId dolu (kişisel) satırlarda dolduruluyor;
+   *  anonim satır yalnızca dağılım grafiği için var, buna ihtiyacı yok. */
+  payload    Json?
+  source     String   @default("server")
+  createdAt  DateTime @default(now())
+
+  @@unique([userId, gameId, dateKey])
+  @@index([gameId, dateKey])
+  @@index([userId])
+}
+
+// Kullanıcıların "Geri Bildirim" formundan gönderdikleri. Giriş ZORUNLU DEĞİL —
+// oyunlar zaten girişsiz oynanıyor, giriş şartı koymak geri bildirimi neredeyse
+// sıfırlardı. Giriş yapılmışsa e-posta yine de kaydediliyor ki cevap verilebilsin.
+// Yönetici bunları /onizleme sayfasında görüyor (ADMIN_EMAILS ile korumalı).
+model Feedback {
+  id        String   @id @default(cuid())
+  message   String
+  /** Kullanıcının isteğe bağlı bıraktığı iletişim adresi (giriş yapmamışsa). */
+  contact   String?
+  /** Giriş yapılmışsa oturumdaki hesap — silinirse geri bildirim kalsın diye SetNull. */
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id], onDelete: SetNull)
+  /** Hangi sayfadan gönderildiği — hatayı yerini bulmayı kolaylaştırıyor. */
+  page      String?
+  userAgent String?
+  createdAt DateTime @default(now())
+
+  @@index([createdAt])
+}

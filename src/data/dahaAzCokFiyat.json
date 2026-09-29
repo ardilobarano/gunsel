@@ -1,0 +1,400 @@
+[
+  {
+    "id": "attwarner",
+    "label": "AT&T - Time Warner (2018)",
+    "value": 85400,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Time_Warner_Center_May_2010.JPG/330px-Time_Warner_Center_May_2010.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "fox",
+    "label": "21st Century Fox (Disney, 2019)",
+    "value": 71300,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1211_Avenue_of_the_Americas.jpg/330px-1211_Avenue_of_the_Americas.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "activision",
+    "label": "Activision Blizzard (Microsoft, 2023)",
+    "value": 68700,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2701_Olympic_Boulevard.jpg/330px-2701_Olympic_Boulevard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "dellemc",
+    "label": "EMC (Dell, 2016)",
+    "value": 67000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/EMC_Corporation_logo.svg/330px-EMC_Corporation_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "vmware",
+    "label": "VMware (Broadcom, 2023)",
+    "value": 61000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/VMware_HQ_campus_3401_Hillview_entrance.JPG/330px-VMware_HQ_campus_3401_Hillview_entrance.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "xilinx",
+    "label": "Xilinx (AMD, 2022)",
+    "value": 49000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/XilinxInc-lobby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "twitter",
+    "label": "Twitter (Elon Musk, 2022)",
+    "value": 44000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/X_%28sosyal_a%C4%9F%29_ekran_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg/330px-X_%28sosyal_a%C4%9F%29_ekran_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "redhat",
+    "label": "Red Hat (IBM, 2019)",
+    "value": 34000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Red_Hat_Tower_%28formerly_headquarters_of_Progress_Energy_Inc.%29_--_20_May_2012_%28panoramio.com%29_%28cropped%29.jpg/330px-Red_Hat_Tower_%28formerly_headquarters_of_Progress_Energy_Inc.%29_--_20_May_2012_%28panoramio.com%29_%28cropped%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "cerner",
+    "label": "Cerner (Oracle, 2022)",
+    "value": 28300,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cerner2.jpg/330px-Cerner2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "slack",
+    "label": "Slack (Salesforce, 2021)",
+    "value": 27700,
+    "unit": "milyon $"
+  },
+  {
+    "id": "linkedin",
+    "label": "LinkedIn (Microsoft, 2016)",
+    "value": 26200,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/LinkedIn_Headquarters_Sunnyvale.jpg/330px-LinkedIn_Headquarters_Sunnyvale.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nuance",
+    "label": "Nuance (Microsoft, 2022)",
+    "value": 19700,
+    "unit": "milyon $"
+  },
+  {
+    "id": "whatsapp",
+    "label": "WhatsApp (Facebook, 2014)",
+    "value": 19000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/WhatsApp_Logo_green.svg/330px-WhatsApp_Logo_green.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "tableau",
+    "label": "Tableau (Salesforce, 2019)",
+    "value": 15700,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Tableau_Public_desktop.png/330px-Tableau_Public_desktop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "mobileye",
+    "label": "Mobileye (Intel, 2017)",
+    "value": 15300,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lane_Guidance_Camera_PCB.jpg/330px-Lane_Guidance_Camera_PCB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "wholefoods",
+    "label": "Whole Foods (Amazon, 2017)",
+    "value": 13700,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Whole_Foods_Market_201x_logo.svg/330px-Whole_Foods_Market_201x_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "zynga",
+    "label": "Zynga (Take-Two, 2022)",
+    "value": 12700,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/0/00/Zynga.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "motorola",
+    "label": "Motorola Mobility (Google, 2012)",
+    "value": 12500,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Motorola_Mobility_Logo_Being_Installed.jpg/330px-Motorola_Mobility_Logo_Being_Installed.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "skype",
+    "label": "Skype (Microsoft, 2011)",
+    "value": 8500,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/langtr-330px-Skype_logo_%282019%E2%80%93present%29.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "mgm",
+    "label": "MGM (Amazon, 2022)",
+    "value": 8500,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/7/72/Mgm-logo-ds.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "github",
+    "label": "GitHub (Microsoft, 2018)",
+    "value": 7500,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/langtr-330px-GitHub_Invertocat_Logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "pixar",
+    "label": "Pixar (Disney, 2006)",
+    "value": 7400,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pixaranimationstudios.jpg/330px-Pixaranimationstudios.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "lucasfilm",
+    "label": "Lucasfilm (Disney, 2012)",
+    "value": 4050,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Letterman_Digital_Arts_Center%2C_Building_B_%28side_view%29.jpg/330px-Letterman_Digital_Arts_Center%2C_Building_B_%28side_view%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "marvel",
+    "label": "Marvel Entertainment (Disney, 2009)",
+    "value": 4000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/langtr-330px-Marvel_Logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nest",
+    "label": "Nest (Google, 2014)",
+    "value": 3200,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Yelagiri_bird%27s_nest.jpg/330px-Yelagiri_bird%27s_nest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "doubleclick",
+    "label": "DoubleClick (Google, 2007)",
+    "value": 3100,
+    "unit": "milyon $"
+  },
+  {
+    "id": "beats",
+    "label": "Beats Electronics (Apple, 2014)",
+    "value": 3000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Beats_Electronics_logo.svg/langtr-330px-Beats_Electronics_logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "mojang",
+    "label": "Mojang / Minecraft (Microsoft, 2014)",
+    "value": 2500,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mojang_Studios_Logo_%282020%2C_slim%29.svg/330px-Mojang_Studios_Logo_%282020%2C_slim%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "youtube",
+    "label": "YouTube (Google, 2006)",
+    "value": 1650,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png/330px-Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "zappos",
+    "label": "Zappos (Amazon, 2009)",
+    "value": 1200,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Zappos.com_screenshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "id": "waze",
+    "label": "Waze (Google, 2013)",
+    "value": 1150,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/e/e8/Waze-Reporting-Screen-English.png/330px-Waze-Reporting-Screen-English.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "tumblr",
+    "label": "Tumblr (Yahoo, 2013)",
+    "value": 1100,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/a/a4/Tumblr_profile.jpg/330px-Tumblr_profile.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "instagram",
+    "label": "Instagram (Facebook, 2012)",
+    "value": 1000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/langtr-330px-Instagram_logo_2022.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "aoltimewarner",
+    "label": "AOL - Time Warner (2000)",
+    "value": 165000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Time_Warner_Center_May_2010.JPG/330px-Time_Warner_Center_May_2010.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "avagobroadcom",
+    "label": "Broadcom (Avago, 2016)",
+    "value": 37000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Broadcom_Headquarters_San_Jose.jpg/330px-Broadcom_Headquarters_San_Jose.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "googlewiz",
+    "label": "Wiz (Google, 2025)",
+    "value": 32000,
+    "unit": "milyon $"
+  },
+  {
+    "id": "softbankarm",
+    "label": "ARM (SoftBank, 2016)",
+    "value": 32000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/ARM-Cambridge.jpg/330px-ARM-Cambridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "adimaxim",
+    "label": "Maxim Integrated (Analog Devices, 2021)",
+    "value": 21000,
+    "unit": "milyon $"
+  },
+  {
+    "id": "intelaltera",
+    "label": "Altera (Intel, 2015)",
+    "value": 16700,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Alteraheadquarters.jpg/330px-Alteraheadquarters.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "marvellinphi",
+    "label": "Inphi (Marvell, 2021)",
+    "value": 10000,
+    "unit": "milyon $"
+  },
+  {
+    "id": "oraclenetsuite",
+    "label": "NetSuite (Oracle, 2016)",
+    "value": 9300,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Oracle_NetSuite_2021.png/330px-Oracle_NetSuite_2021.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "sapqualtrics",
+    "label": "Qualtrics (SAP, 2019)",
+    "value": 8000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Qualtrics_logo.svg/330px-Qualtrics_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "zenimax",
+    "label": "ZeniMax / Bethesda (Microsoft, 2021)",
+    "value": 7500,
+    "unit": "milyon $"
+  },
+  {
+    "id": "oraclesun",
+    "label": "Sun Microsystems (Oracle, 2010)",
+    "value": 7400,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wfm_sun_agnews.jpg/330px-Wfm_sun_agnews.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "nvidiamellanox",
+    "label": "Mellanox (Nvidia, 2020)",
+    "value": 6900,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/MELLANOX_-_1024.jpg/330px-MELLANOX_-_1024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "ibmhashicorp",
+    "label": "HashiCorp (IBM, 2024)",
+    "value": 6400,
+    "unit": "milyon $"
+  },
+  {
+    "id": "yahoobroadcast",
+    "label": "Broadcast.com (Yahoo, 1999)",
+    "value": 5700,
+    "unit": "milyon $"
+  },
+  {
+    "id": "googlemandiant",
+    "label": "Mandiant (Google, 2022)",
+    "value": 5400,
+    "unit": "milyon $"
+  },
+  {
+    "id": "adobemarketo",
+    "label": "Marketo (Adobe, 2018)",
+    "value": 4750,
+    "unit": "milyon $"
+  },
+  {
+    "id": "verizonyahoo",
+    "label": "Yahoo (Verizon, 2017)",
+    "value": 4480,
+    "unit": "milyon $"
+  },
+  {
+    "id": "facebookoculus",
+    "label": "Oculus (Facebook, 2014)",
+    "value": 2000,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Oculus_Go_-_4.jpg/330px-Oculus_Go_-_4.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "ebaypaypal",
+    "label": "PayPal (eBay, 2002)",
+    "value": 1500,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PayPal_San_Jose_Headquarters.jpg/330px-PayPal_San_Jose_Headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "databricksmosaic",
+    "label": "MosaicML (Databricks, 2023)",
+    "value": 1300,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DatabricksBooth.jpg/330px-DatabricksBooth.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "amazonkiva",
+    "label": "Kiva Systems (Amazon, 2012)",
+    "value": 775,
+    "unit": "milyon $"
+  },
+  {
+    "id": "nvidiarunai",
+    "label": "Run:ai (Nvidia, 2024)",
+    "value": 700,
+    "unit": "milyon $"
+  },
+  {
+    "id": "applenext",
+    "label": "NeXT (Apple, 1997)",
+    "value": 429,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/NeXT_logo.svg/langtr-330px-NeXT_logo.svg.png?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "appleshazam",
+    "label": "Shazam (Apple, 2018)",
+    "value": 400,
+    "unit": "milyon $"
+  },
+  {
+    "id": "googleandroid",
+    "label": "Android (Google, 2005)",
+    "value": 50,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Android.JPG/330px-Android.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "id": "twittervine",
+    "label": "Vine (Twitter, 2012)",
+    "value": 30,
+    "unit": "milyon $",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%22A_Momordica_charantia-_bitter_guard_plant%22.jpg/330px-%22A_Momordica_charantia-_bitter_guard_plant%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]
